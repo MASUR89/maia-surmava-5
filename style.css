@@ -5,7 +5,7 @@
 }
 .back {
     width: 100vw;
-    height: 100vw;
+    height: 100vh;
     background-color: #D5E1EF;
     display: flex;
     align-items:center;
